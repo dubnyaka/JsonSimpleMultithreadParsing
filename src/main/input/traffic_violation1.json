@@ -1,0 +1,499 @@
+[
+  {
+    "date_time": "2014-1-13 01:31:03",
+    "first_name": "Jayson",
+    "last_name": "HARRELL",
+    "type": "SPEEDING",
+    "fine_amount": 2812.56
+  },
+  {
+    "date_time": "2018-6-7 19:59:56",
+    "first_name": "Andres",
+    "last_name": "STEVENSON",
+    "type": "PARKING",
+    "fine_amount": 4313.9
+  },
+  {
+    "date_time": "2017-4-4 12:34:37",
+    "first_name": "Mandy",
+    "last_name": "COMPTON",
+    "type": "SPEEDING",
+    "fine_amount": 1815.52
+  },
+  {
+    "date_time": "2018-12-5 13:23:07",
+    "first_name": "William",
+    "last_name": "JENNINGS",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4623.08
+  },
+  {
+    "date_time": "2014-5-14 03:16:11",
+    "first_name": "Lonnie",
+    "last_name": "REEVES",
+    "type": "PARKING",
+    "fine_amount": 3985.22
+  },
+  {
+    "date_time": "2016-7-13 10:35:10",
+    "first_name": "Kristina",
+    "last_name": "DUFFY",
+    "type": "SPEEDING",
+    "fine_amount": 4883.6
+  },
+  {
+    "date_time": "2013-9-13 21:51:10",
+    "first_name": "Darrin",
+    "last_name": "JAMES",
+    "type": "PARKING",
+    "fine_amount": 641.08
+  },
+  {
+    "date_time": "2019-6-12 20:26:55",
+    "first_name": "Mercedes",
+    "last_name": "BRIGHT",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2899.6
+  },
+  {
+    "date_time": "2017-6-8 02:37:47",
+    "first_name": "Austin",
+    "last_name": "SIMON",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 3076.32
+  },
+  {
+    "date_time": "2020-10-7 12:40:23",
+    "first_name": "Randi",
+    "last_name": "MERCADO",
+    "type": "PARKING",
+    "fine_amount": 1480.8
+  },
+  {
+    "date_time": "2020-11-9 01:27:56",
+    "first_name": "Sydney",
+    "last_name": "MENDEZ",
+    "type": "PARKING",
+    "fine_amount": 1353.46
+  },
+  {
+    "date_time": "2014-6-8 10:21:58",
+    "first_name": "Andres",
+    "last_name": "STEVENSON",
+    "type": "SPEEDING",
+    "fine_amount": 4821.31
+  },
+  {
+    "date_time": "2013-6-4 14:14:24",
+    "first_name": "Rosemary",
+    "last_name": "ALSTON",
+    "type": "SPEEDING",
+    "fine_amount": 279.73
+  },
+  {
+    "date_time": "2014-11-10 18:23:59",
+    "first_name": "Hailey",
+    "last_name": "MORGAN",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 576.11
+  },
+  {
+    "date_time": "2019-7-10 16:23:23",
+    "first_name": "Chelsea",
+    "last_name": "TERRY",
+    "type": "SPEEDING",
+    "fine_amount": 4371.42
+  },
+  {
+    "date_time": "2012-4-4 20:39:10",
+    "first_name": "Jayson",
+    "last_name": "HARRELL",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4158.82
+  },
+  {
+    "date_time": "2018-11-14 08:15:24",
+    "first_name": "Alfred",
+    "last_name": "RANDOLPH",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2193.75
+  },
+  {
+    "date_time": "2018-9-6 10:25:59",
+    "first_name": "Rosanna",
+    "last_name": "CORTEZ",
+    "type": "PARKING",
+    "fine_amount": 4491.91
+  },
+  {
+    "date_time": "2014-9-8 12:30:58",
+    "first_name": "Charles",
+    "last_name": "MARTIN",
+    "type": "PARKING",
+    "fine_amount": 4772.32
+  },
+  {
+    "date_time": "2017-10-11 12:13:07",
+    "first_name": "Darryl",
+    "last_name": "DAY",
+    "type": "PARKING",
+    "fine_amount": 4100.95
+  },
+  {
+    "date_time": "2011-4-11 07:12:34",
+    "first_name": "Latasha",
+    "last_name": "GUY",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4109.46
+  },
+  {
+    "date_time": "2018-5-9 06:35:32",
+    "first_name": "Lea",
+    "last_name": "DONOVAN",
+    "type": "SPEEDING",
+    "fine_amount": 559.62
+  },
+  {
+    "date_time": "2013-2-9 03:18:41",
+    "first_name": "Jack",
+    "last_name": "ROSE",
+    "type": "PARKING",
+    "fine_amount": 3675.26
+  },
+  {
+    "date_time": "2014-3-12 00:41:28",
+    "first_name": "Rachelle",
+    "last_name": "ATKINS",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4335.2
+  },
+  {
+    "date_time": "2014-10-3 11:56:55",
+    "first_name": "Guadalupe",
+    "last_name": "WOLFE",
+    "type": "PARKING",
+    "fine_amount": 2907.48
+  },
+  {
+    "date_time": "2014-7-14 14:50:44",
+    "first_name": "Cortney",
+    "last_name": "SOLOMON",
+    "type": "PARKING",
+    "fine_amount": 2693.71
+  },
+  {
+    "date_time": "2020-4-12 23:18:35",
+    "first_name": "Bryant",
+    "last_name": "BENNETT",
+    "type": "PARKING",
+    "fine_amount": 2102.87
+  },
+  {
+    "date_time": "2020-8-10 11:07:22",
+    "first_name": "Ernest",
+    "last_name": "SAMPSON",
+    "type": "PARKING",
+    "fine_amount": 3440.97
+  },
+  {
+    "date_time": "2021-9-5 20:50:44",
+    "first_name": "Charles",
+    "last_name": "MARTIN",
+    "type": "PARKING",
+    "fine_amount": 3031.08
+  },
+  {
+    "date_time": "2011-5-8 09:01:22",
+    "first_name": "Tanya",
+    "last_name": "MARQUEZ",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4639.93
+  },
+  {
+    "date_time": "2015-5-12 09:44:35",
+    "first_name": "Austin",
+    "last_name": "SIMON",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2639.62
+  },
+  {
+    "date_time": "2016-4-6 09:29:11",
+    "first_name": "Paige",
+    "last_name": "BRADY",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 161.32
+  },
+  {
+    "date_time": "2018-10-10 11:59:47",
+    "first_name": "Antwan",
+    "last_name": "KENT",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 3595.92
+  },
+  {
+    "date_time": "2018-4-7 02:48:29",
+    "first_name": "Ricardo",
+    "last_name": "GILLIAM",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2042.3
+  },
+  {
+    "date_time": "2015-8-10 12:34:46",
+    "first_name": "Tyrell",
+    "last_name": "MCGEE",
+    "type": "PARKING",
+    "fine_amount": 3555.79
+  },
+  {
+    "date_time": "2020-9-10 14:50:51",
+    "first_name": "Fred",
+    "last_name": "FIELDS",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 591.88
+  },
+  {
+    "date_time": "2012-11-11 07:50:40",
+    "first_name": "Laurie",
+    "last_name": "RANDOLPH",
+    "type": "PARKING",
+    "fine_amount": 4778.43
+  },
+  {
+    "date_time": "2021-4-9 01:31:44",
+    "first_name": "Gabriel",
+    "last_name": "RICHMOND",
+    "type": "SPEEDING",
+    "fine_amount": 2081.18
+  },
+  {
+    "date_time": "2021-1-6 01:19:39",
+    "first_name": "Ricardo",
+    "last_name": "GILLIAM",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2288.09
+  },
+  {
+    "date_time": "2013-3-9 20:13:34",
+    "first_name": "Antoine",
+    "last_name": "WALTERS",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 1274.33
+  },
+  {
+    "date_time": "2012-2-3 19:29:17",
+    "first_name": "Cortney",
+    "last_name": "SOLOMON",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 4951.25
+  },
+  {
+    "date_time": "2018-6-4 02:43:58",
+    "first_name": "Tanya",
+    "last_name": "MARQUEZ",
+    "type": "PARKING",
+    "fine_amount": 1419.97
+  },
+  {
+    "date_time": "2015-7-6 17:28:40",
+    "first_name": "Collin",
+    "last_name": "BRYANT",
+    "type": "PARKING",
+    "fine_amount": 361.66
+  },
+  {
+    "date_time": "2016-10-9 23:16:08",
+    "first_name": "Antoinette",
+    "last_name": "LANCASTER",
+    "type": "PARKING",
+    "fine_amount": 1353.92
+  },
+  {
+    "date_time": "2013-2-13 01:08:59",
+    "first_name": "Paige",
+    "last_name": "BRADY",
+    "type": "PARKING",
+    "fine_amount": 2739.05
+  },
+  {
+    "date_time": "2017-8-13 14:34:50",
+    "first_name": "Hailey",
+    "last_name": "MORGAN",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2581.18
+  },
+  {
+    "date_time": "2016-12-13 00:59:38",
+    "first_name": "Jack",
+    "last_name": "ROSE",
+    "type": "SPEEDING",
+    "fine_amount": 4332.16
+  },
+  {
+    "date_time": "2014-5-6 07:10:44",
+    "first_name": "Rosanna",
+    "last_name": "CORTEZ",
+    "type": "PARKING",
+    "fine_amount": 1553.25
+  },
+  {
+    "date_time": "2014-4-9 12:05:54",
+    "first_name": "Maxwell",
+    "last_name": "WARNER",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 1735.35
+  },
+  {
+    "date_time": "2019-4-9 15:26:14",
+    "first_name": "Beth",
+    "last_name": "GROSS",
+    "type": "SPEEDING",
+    "fine_amount": 4055.15
+  },
+  {
+    "date_time": "2017-11-6 13:55:58",
+    "first_name": "Lena",
+    "last_name": "MELTON",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 768.31
+  },
+  {
+    "date_time": "2016-8-11 16:06:02",
+    "first_name": "Edwin",
+    "last_name": "TUCKER",
+    "type": "PARKING",
+    "fine_amount": 1827.05
+  },
+  {
+    "date_time": "2014-11-8 09:09:47",
+    "first_name": "Lonnie",
+    "last_name": "REEVES",
+    "type": "PARKING",
+    "fine_amount": 1429.61
+  },
+  {
+    "date_time": "2020-9-10 03:15:52",
+    "first_name": "Jane",
+    "last_name": "KNOX",
+    "type": "SPEEDING",
+    "fine_amount": 3539.83
+  },
+  {
+    "date_time": "2020-4-4 20:57:47",
+    "first_name": "Lacey",
+    "last_name": "GRAVES",
+    "type": "SPEEDING",
+    "fine_amount": 740.48
+  },
+  {
+    "date_time": "2014-9-8 07:05:24",
+    "first_name": "Terrance",
+    "last_name": "CAIN",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 1404.66
+  },
+  {
+    "date_time": "2018-9-13 03:10:01",
+    "first_name": "Mandy",
+    "last_name": "COMPTON",
+    "type": "SPEEDING",
+    "fine_amount": 3406.77
+  },
+  {
+    "date_time": "2021-3-9 12:46:14",
+    "first_name": "Antoine",
+    "last_name": "WALTERS",
+    "type": "PARKING",
+    "fine_amount": 2067.68
+  },
+  {
+    "date_time": "2014-3-7 03:56:13",
+    "first_name": "Connie",
+    "last_name": "SKINNER",
+    "type": "SPEEDING",
+    "fine_amount": 4726.24
+  },
+  {
+    "date_time": "2019-3-10 13:54:43",
+    "first_name": "Chelsea",
+    "last_name": "TERRY",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 3022.45
+  },
+  {
+    "date_time": "2016-1-3 17:17:32",
+    "first_name": "Michael",
+    "last_name": "COOKE",
+    "type": "PARKING",
+    "fine_amount": 2246.24
+  },
+  {
+    "date_time": "2012-12-3 17:26:29",
+    "first_name": "Mark",
+    "last_name": "KIDD",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 294.88
+  },
+  {
+    "date_time": "2015-4-6 05:35:58",
+    "first_name": "Gabriel",
+    "last_name": "RICHMOND",
+    "type": "PARKING",
+    "fine_amount": 2014.87
+  },
+  {
+    "date_time": "2017-5-10 08:06:45",
+    "first_name": "Jaclyn",
+    "last_name": "CHURCH",
+    "type": "PARKING",
+    "fine_amount": 2138.11
+  },
+  {
+    "date_time": "2017-8-9 06:34:02",
+    "first_name": "Nancy",
+    "last_name": "TRUJILLO",
+    "type": "SPEEDING",
+    "fine_amount": 4855.05
+  },
+  {
+    "date_time": "2015-6-3 13:28:07",
+    "first_name": "Antoinette",
+    "last_name": "LANCASTER",
+    "type": "PARKING",
+    "fine_amount": 1828.36
+  },
+  {
+    "date_time": "2016-4-8 05:57:39",
+    "first_name": "Mark",
+    "last_name": "KIDD",
+    "type": "PARKING",
+    "fine_amount": 4407.69
+  },
+  {
+    "date_time": "2020-1-7 15:31:50",
+    "first_name": "Kristina",
+    "last_name": "DUFFY",
+    "type": "AGGRESSIVE DRIVING",
+    "fine_amount": 2368.74
+  },
+  {
+    "date_time": "2012-5-6 15:10:58",
+    "first_name": "Maxwell",
+    "last_name": "WARNER",
+    "type": "PARKING",
+    "fine_amount": 547.37
+  },
+  {
+    "date_time": "2011-9-11 02:23:58",
+    "first_name": "Lacey",
+    "last_name": "GRAVES",
+    "type": "PARKING",
+    "fine_amount": 2904.29
+  },
+  {
+    "date_time": "2015-11-4 00:07:39",
+    "first_name": "Owen",
+    "last_name": "KIRK",
+    "type": "SPEEDING",
+    "fine_amount": 844.93
+  }
+]
